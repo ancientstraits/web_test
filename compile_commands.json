@@ -1,0 +1,19 @@
+[
+ {
+  "directory": "/workspace/web_test",
+  "arguments": [
+   "cc",
+   "-o",
+   "obj/main.o",
+   "-c",
+   "src/main.c",
+   "-g",
+   "-ggdb",
+   "-Iinclude",
+   "-Wall",
+   "-static",
+   "-Llib"
+  ],
+  "file": "src/main.c"
+ }
+]

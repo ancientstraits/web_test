@@ -1,0 +1,8 @@
+libharu
+if
+bin
+obj
+main
+jmp
+*.vsix
+.cache
